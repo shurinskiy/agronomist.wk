@@ -50,7 +50,6 @@
 	},
 	"dependencies": {
 		"animate-scss": "^3.2.1",
-		"install": "^0.13.0",
 		"jquery": "^3.6.0",
 		"npm": "^7.21.0",
 		"wow.js": "^1.2.2"
