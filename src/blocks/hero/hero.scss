@@ -8,7 +8,12 @@
 		background-position: right center;
 	}
 	
+	@include media('<=xs') {
+		margin-top: -190px;
+	}
+	
 	@include media('<=xxxs') {
+		padding: 50px 0 390px;
 		margin-top: 0;
 	}
 	
