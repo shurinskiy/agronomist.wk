@@ -77,9 +77,11 @@
 			background-color: transparent;
 			background-size: 60px 60px;
 		}
-
+		
 		&_lamp::before {
 			background-image: url('#{$images-path}icons-sprite.svg#icon-lamp-view-white');
+			// background-image: url('#{$images-path}icons-sprite.svg#icon-graph-view-white');
+			// background-image: url('#{$images-path}icons-sprite.svg#icon-graph-fill-view-white');
 		}
 
 		&_community::before {
